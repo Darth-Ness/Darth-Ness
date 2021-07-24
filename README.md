@@ -1,4 +1,4 @@
-Hello there, I am Darth-Ness. And this is my Github fortress. Wonder what I do here? Stuff.
+Hello there, I am Darth-Ness. And this is my fortress in this corner of Github. Wonder what I do here? Stuff.
 
 
 <!---

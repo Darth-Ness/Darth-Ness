@@ -1,7 +1,4 @@
-Hello there, I am Darth-Ness. And this is my fortress in this corner of Github. Wonder what I do here? Stuff.
-
-
-<!---
-Darth-Ness/Darth-Ness is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello there I am Darth-Ness. I'm a US based programmer and graphic designer.
+I mostly do work with Python. However, I also do work with HTML5, CSS3 and JavaScript!
+<br>
+[![Darth Ness' github stats](https://github-readme-stats.vercel.app/api?username=Darth-Ness&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
